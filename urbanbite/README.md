@@ -10,3 +10,10 @@ This folder is ready to be used as the Netlify base directory. In the existing N
 
 - Payment integration currently shows a demo/test warning. Do not use it to collect real payments.
 - Cart and order history are saved in browser local storage; they are not shared across devices or a central kitchen.
+
+## Enhanced release
+
+- Refined responsive layout and food-card presentation.
+- Added menu search, category filters, veg-only filtering, favourites and price sorting.
+- Improved cart interactions, saved cart state, order history and print-friendly billing.
+- Added About/creator details for Hitesh Narula.
